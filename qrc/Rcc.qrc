@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/clear.png</file>
+        <file>images/lightning.png</file>
+        <file>images/open_folder.png</file>
+        <file>images/pause.png</file>
+        <file>images/play.png</file>
+        <file>images/stop.png</file>
+        <file>images/icon_repeat.png</file>
+        <file>images/green16.png</file>
+        <file>images/red16.png</file>
+        <file>images/right.png</file>
+        <file>images/cross.png</file>
+        <file>images/arrow16.png</file>
+        <file>images/check16.png</file>
+        <file>images/cross16.png</file>
+        <file>images/loader.gif</file>
+        <file>images/check.png</file>
+        <file>images/save.png</file>
+        <file>images/minus.png</file>
+        <file>images/plus.png</file>
+        <file>images/empty.png</file>
+        <file>images/AGTE.png</file>
+    </qresource>
+</RCC>
